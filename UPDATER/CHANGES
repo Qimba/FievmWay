@@ -1,0 +1,2 @@
+- Added the option to connect specific commands with their own webhook link
+- Changed the 'ToDiscord' function to an event (Can be called from other resources now)
